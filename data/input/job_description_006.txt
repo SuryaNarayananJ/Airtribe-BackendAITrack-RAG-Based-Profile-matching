@@ -1,0 +1,19 @@
+Role: Machine Learning Engineer
+
+About the Role:
+We are looking for an ML Engineer to help design our artificial intelligence products.
+
+Must Have:
+4 years of experience
+
+Critical Skills Required:
+- Python
+- PyTorch or TensorFlow
+- Machine Learning
+- NLP (Natural Language Processing)
+- Computer Vision
+
+Responsibilities:
+- Designing and developing machine learning and deep learning systems.
+- Running machine learning tests and experiments.
+- Implementing appropriate ML algorithms.

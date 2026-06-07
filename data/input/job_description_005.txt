@@ -1,0 +1,19 @@
+Role: Frontend React Engineer
+
+About the Role:
+We need a Frontend Engineer who is highly skilled with JavaScript and React to build a modern web application from the ground up.
+
+Must Have:
+2 years of experience
+
+Critical Skills Required:
+- JavaScript
+- React
+- TypeScript
+- HTML and CSS
+- Webpack
+
+Responsibilities:
+- Developing new user-facing features using React.js.
+- Building reusable components and front-end libraries.
+- Translating designs and wireframes into high-quality code.

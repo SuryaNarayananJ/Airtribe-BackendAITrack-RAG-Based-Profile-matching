@@ -1,0 +1,17 @@
+Riya Rao
+riya.rao@email.com | +91-9876543210
+
+Summary:
+Experienced Frontend Engineer with 4 years of experience in the software industry. Passionate about building scalable applications and solving complex problems.
+
+Experience:
+Senior Frontend Engineer at Swiggy
+- Developed and maintained key features for enterprise applications.
+- Collaborated with cross-functional teams using TypeScript and React.
+- Mentored junior engineers and led code reviews.
+
+Skills:
+TypeScript, React, Communication, CSS, UI/UX, Webpack, JavaScript, Jest, Agile
+
+Education:
+B.E. Information Technology from NIT Trichy

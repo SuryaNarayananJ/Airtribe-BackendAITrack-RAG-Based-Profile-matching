@@ -1,0 +1,19 @@
+Role: Senior Python Developer
+
+About the Role:
+We are looking for an experienced Python Developer to join our backend team to build and maintain scalable microservices.
+
+Must Have:
+4 years of experience
+
+Critical Skills Required:
+- Python
+- Django or FastAPI
+- SQL and PostgreSQL
+- Docker
+- REST APIs
+
+Responsibilities:
+- Write reusable, testable, and efficient code.
+- Design and implement low-latency, high-availability applications.
+- Integrate user-facing elements with server-side logic.

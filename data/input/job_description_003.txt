@@ -1,0 +1,20 @@
+Role: Lead DevOps Engineer
+
+About the Role:
+We are looking for a DevOps Engineer to help us build functional systems that improve customer experience and deploy rapidly.
+
+Must Have:
+5 years of experience
+
+Critical Skills Required:
+- AWS
+- Docker
+- Kubernetes
+- CI/CD pipelines
+- Terraform
+- Linux
+
+Responsibilities:
+- Implement integrations requested by customers.
+- Deploy updates and fixes.
+- Build tools to reduce occurrences of errors and improve customer experience.

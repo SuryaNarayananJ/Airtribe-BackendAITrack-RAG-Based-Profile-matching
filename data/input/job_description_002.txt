@@ -1,0 +1,19 @@
+Role: Data Scientist
+
+About the Role:
+We are seeking a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company.
+
+Must Have:
+2 years of experience
+
+Critical Skills Required:
+- Python
+- Machine Learning
+- Pandas and NumPy
+- Scikit-Learn
+- SQL
+
+Responsibilities:
+- Identify valuable data sources and automate collection processes.
+- Undertake preprocessing of structured and unstructured data.
+- Analyze large amounts of information to discover trends.

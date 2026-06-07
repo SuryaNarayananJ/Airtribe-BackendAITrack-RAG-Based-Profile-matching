@@ -1,0 +1,19 @@
+Role: Principal Cloud Architect
+
+About the Role:
+We need a Cloud Architect to oversee our company's cloud computing strategy. This includes cloud adoption plans, application design, and cloud management and monitoring.
+
+Must Have:
+7 years of experience
+
+Critical Skills Required:
+- AWS or Azure
+- Cloud Architecture
+- Networking
+- Kubernetes
+- Security
+
+Responsibilities:
+- Create a well-informed cloud strategy and manage the adaptation process.
+- Regularly evaluate cloud applications, hardware, and software.
+- Work closely with IT security to monitor the company's cloud privacy.

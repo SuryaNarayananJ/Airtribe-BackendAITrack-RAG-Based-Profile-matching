@@ -1,0 +1,17 @@
+Saanvi Singh
+saanvi.singh@email.com | +91-9876543210
+
+Summary:
+Experienced DevOps Engineer with 9 years of experience in the software industry. Passionate about building scalable applications and solving complex problems.
+
+Experience:
+Senior DevOps Engineer at Ola
+- Developed and maintained key features for enterprise applications.
+- Collaborated with cross-functional teams using Python and Problem Solving.
+- Mentored junior engineers and led code reviews.
+
+Skills:
+Python, Problem Solving, Team Leadership, Kubernetes, Jenkins, CI/CD, Docker, Linux, AWS
+
+Education:
+B.E. Information Technology from BITS Pilani

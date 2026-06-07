@@ -1,0 +1,20 @@
+Role: Backend Java Developer
+
+About the Role:
+We are hiring a Java Developer to manage Java/Java EE application development while providing expertise in the full software development lifecycle.
+
+Must Have:
+3 years of experience
+
+Critical Skills Required:
+- Java
+- Spring Boot
+- Microservices
+- Hibernate
+- SQL
+- REST APIs
+
+Responsibilities:
+- Design and develop high-volume, low-latency applications.
+- Contribute in all phases of the development lifecycle.
+- Write well-designed, testable, efficient code.
