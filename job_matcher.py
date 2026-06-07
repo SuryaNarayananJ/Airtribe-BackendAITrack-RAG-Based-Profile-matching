@@ -173,6 +173,7 @@ def process_job_description(jd_path, embedding_model, collection):
     }
     
     out_file = OUTPUT_DIR / f"{jd_path.stem}_results.json"
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     with open(out_file, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, indent=4)
         
